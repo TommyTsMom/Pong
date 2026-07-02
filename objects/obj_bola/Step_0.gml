@@ -1,0 +1,7 @@
+/// @description Inserir descrição aqui
+// Você pode escrever seu código neste editor
+global.vel_bola = vspeed
+if speed >= 3
+{
+	speed = 3
+}
